@@ -1,6 +1,6 @@
 {
-    "name": "multimod",
-    "displayName": "Multi Mod" ,
-    "author": "[aurghya]",
-    "description": "This mod does nothing" 
+    "name": "projectmod",
+    "displayName": "Project Mod" ,
+    "author": "Aurghya",
+    "description": "Adds a sandbox mode equivalent for products, enables adding users, improving stats of the features for all the projects." 
 }

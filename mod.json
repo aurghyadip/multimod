@@ -1,5 +1,6 @@
 {
-    "name": "High Productivity - 1000% Speed",
-    "author": "Sevenrou",
-    "description": "Your employees will work at 1000% speed."
+    "name": "projectmod",
+    "displayName": "Project Mod" ,
+    "author": "[aurghya]",
+    "description": "Adds a sandbox mode equivalent for products, enables adding users, improving stats of the features for all the projects." 
 }
